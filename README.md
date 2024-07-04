@@ -30,7 +30,7 @@ default:   //default is at the end of all cases
 }
 
 # ArmStrong Number
-Q: Find 3 digit Arm strong number?
+Q: Find 3 digit Armstrong number?
 <br>
 Armstrong number is a number that is equal to the sum of cubes of its digits.
 <br>
