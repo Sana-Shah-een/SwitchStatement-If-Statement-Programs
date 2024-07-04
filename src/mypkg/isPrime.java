@@ -2,7 +2,7 @@ package mypkg;
 
 import java.util.Scanner;
 
-public class isPrime {
+public class IsPrime {
 
 	public static void main(String[] args) {
 		java.util.Scanner in = new Scanner(System.in);
