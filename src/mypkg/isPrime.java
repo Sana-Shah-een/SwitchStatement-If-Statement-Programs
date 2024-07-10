@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class isPrime {
 
 	public static void main(String[] args) {
-		java.util.Scanner in = new Scanner(System.in);
+		Scanner in = new Scanner(System.in);
 		int n=in.nextInt();
 		boolean ans=prime(n);
 		System.out.println(ans);
